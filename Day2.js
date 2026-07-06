@@ -38,7 +38,7 @@ console.log(g);
 let num=prompt("Enter a number"); // it cannott run becuse "prompt is brawser function" use to grt input from user
 if (num%5===0){
     console.log("num=",num);
-}  these lins run in browsers
+}  //these lins run in browsers
 
 
 // practics question
