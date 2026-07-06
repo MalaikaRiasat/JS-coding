@@ -42,8 +42,8 @@ if (num%5===0){
 
 
 // practics question
-num= 34;
-// Grade=;
+let num= 34;
+let Grade=;
 if (num>90){
     Grade="A+";
 }
