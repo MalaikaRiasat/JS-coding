@@ -39,3 +39,11 @@ for (let s in student){
 
 let str="iru";
 console.log(str[0]);
+
+// \n used          --> next line
+
+console.log("apna college\n Lecture 3 ");  
+// output
+// apna college
+//lecture 3
+
