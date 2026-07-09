@@ -1,9 +1,9 @@
-//print all even number 0 to 100
-// for(let n=0; n<=100;n++){
-//     if (n%2===0){
-//             console.log("Even numbers:",n);
-//     }
-// }
+// print all even number 0 to 100
+for(let n=0; n<=100;n++){
+    if (n%2===0){
+            console.log("Even numbers:",n);
+    }
+}
 
 //user guse number 
 let i=1;
