@@ -47,3 +47,9 @@ console.log("apna college\n Lecture 3 ");
 // apna college
 //lecture 3
 
+// srring methods
+
+// 1.str.toUpperCase()
+// 2.str.toLowerCase()
+// 3.str.trim()
+
