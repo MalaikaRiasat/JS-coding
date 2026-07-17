@@ -9,3 +9,6 @@ console.log("Malaika's marks:",marks[2]);
 
 
 console.log("sana's marks:",marks[1]);
+
+
+//concept number 2
