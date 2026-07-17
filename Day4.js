@@ -5,3 +5,4 @@ console.log(marks);
 console.log(marks[1]);
 console.log(marks[4]);
 
+console.log("Malaika's marks:",marks[2]);
