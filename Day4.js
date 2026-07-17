@@ -1,6 +1,6 @@
 //Arrys
 
-let marks=[12,28,28,18,19];
+let marks=[12,28,38,18,19];
 console.log(marks);
 console.log(marks[1]);
 console.log(marks.length);
@@ -26,5 +26,6 @@ for(let idx=0; idx<marks.length;idx++){
 // for of
 
 for(let mark of marks){
-    co
+    console.log("mark:",mark);
+
 }
